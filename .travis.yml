@@ -1,0 +1,3 @@
+lannguage: objective-c
+xcode_project: AHPinterest.xcodeproj  # path to your xcodeproj folder
+xcode_scheme: AHPinterestTests
